@@ -15,36 +15,41 @@ Sales Manager Request:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard">Dataset</a>
 
 ## Business Requirements (KPIs):
-1. Overall Metrics:
+
+### Sales Overview Dashboard
+-1- Overall Mertics:
  - Total Sales
- - Returns
- - Net Sales
- - Discounts 
- - Cost of Goods Sold (COGS)
+ - Total Budget
  - Total Customers
- - Total Orders
-
-2. Segment Performance:
-   - Segment Sales by Category
- 
-3. Sub-Category Performance:
-   - Total Sales by Sub-Category
+ - Total Products  
+-2- Sales by Product Category
+-3- Top 10 Customers by Sales
+-4- Top 10 Products by Sales
+-5- Sales and Budget Trends by Month
+-6- Sales by Customer City
    
-4. Geographical Insights:
-   - Top 10 Cities by Sales
-   - Top 10 States by Sales
-
-5. Customer Insights:
-   - Top 10 Customers by Order Frequency
-   - Top 10 Customers by Sales
+### Customer Details Dashboard
+-1- Overall Mertics:
+ - Total Customers
+ - Total Sales
+ - Total Budget
+ - Total Products
+-2- Sales by Product Category
+-3- Sales by Customer City
+-4- Top 10 Customer by Sales
+-5- Details Table about Customers
    
-6. Sales by Region and Sales Rep Insight
+### Product Details Dashboard:
+-1- Overall Mertics:
+ - Total Products
+ - Total Sales
+ - Total Budget
+ - Total Customers
+-2- Sales and Budget Trends by Month
+-3- Sales by Customer City
+-4- Top 10 Product by Sales
+-5- Details Table about products
 
-7. Sales Trends Over the Years Insight
-
-8. Shipping Mode Contribution Insight
-
-9. Top 5 Sales by States and Category Insight
 
 ## Dashboard Interaction:
   <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/SalesDashboard.xlsx">View Dashboard</a>
