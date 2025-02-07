@@ -17,16 +17,21 @@ Sales Manager Request:
 ## Business Requirements (KPIs):
 
 ### Sales Overview Dashboard
--1- Overall Mertics:
+ 1- Overall Mertics:
  - Total Sales
  - Total Budget
  - Total Customers
- - Total Products  
--2- Sales by Product Category
--3- Top 10 Customers by Sales
--4- Top 10 Products by Sales
--5- Sales and Budget Trends by Month
--6- Sales by Customer City
+ - Total Products
+   
+ 2- Sales by Product Category
+ 
+ 3- Top 10 Customers by Sales
+ 
+ 4- Top 10 Products by Sales
+ 
+ 5- Sales and Budget Trends by Month
+ 
+ 6- Sales by Customer City
    
 ### Customer Details Dashboard
 -1- Overall Mertics:
