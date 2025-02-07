@@ -34,26 +34,34 @@ Sales Manager Request:
  6- Sales by Customer City
    
 ### Customer Details Dashboard
--1- Overall Mertics:
+ 1- Overall Mertics:
  - Total Customers
  - Total Sales
  - Total Budget
  - Total Products
--2- Sales by Product Category
--3- Sales by Customer City
--4- Top 10 Customer by Sales
--5- Details Table about Customers
+ - 
+ 2- Sales by Product Category
+   
+ 3- Sales by Customer City
+ 
+ 4- Top 10 Customer by Sales
+ 
+ 5- Details Table about Customers
    
 ### Product Details Dashboard:
--1- Overall Mertics:
+ 1- Overall Mertics:
  - Total Products
  - Total Sales
  - Total Budget
  - Total Customers
--2- Sales and Budget Trends by Month
--3- Sales by Customer City
--4- Top 10 Product by Sales
--5- Details Table about products
+ - 
+ 2- Sales and Budget Trends by Month
+   
+ 3- Sales by Customer City
+ 
+ 4- Top 10 Product by Sales
+ 
+ 5- Details Table about products
 
 
 ## Dashboard Interaction:
