@@ -39,7 +39,7 @@ Sales Manager Request:
  - Total Sales
  - Total Budget
  - Total Products
- - 
+   
  2- Sales by Product Category
    
  3- Sales by Customer City
@@ -54,7 +54,7 @@ Sales Manager Request:
  - Total Sales
  - Total Budget
  - Total Customers
- - 
+   
  2- Sales and Budget Trends by Month
    
  3- Sales by Customer City
