@@ -68,7 +68,7 @@ Sales Manager Request:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Dashboard</a>
 
 ## Process:
-  - 1- Collecting a Data from Different Sources.
+  - 1- Collecting a Data from Different Sources (Excel & SQL).
   - 2- Cleaning and Preprocessing Data in SQL & Power Query Editor in PowerBI.
   - 3- Data Modeling For Data in Model View in PowerBI.
   - 4- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
@@ -76,19 +76,37 @@ Sales Manager Request:
   - 6- Creation a Dashboards in PowerBI.
   
   ## Dashboard
- - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
+ - <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/tree/main">View Sales Dashboard"</a>
 
-  ## Project Insights:
-  - Total Sales Growth: $2.3M indicates strong revenue generation.
-  - Net Sales vs Returns: Returns constitute ~8% of total sales.
-  - Customer Lifetime Value: Sean Miller is the most valuable customer.
-  - Regional Sales Performance: The West region (Anna Andreadi) leads.
-  - Shipping Optimization: Standard Class is preferred, but other modes have potential for improvement.
-  - High-Performing Sub-Categories: Phones and Chairs drive a significant portion of sales
-  
+ 
   ## Final Conclusion:
-  - By focusing on high-performing categories, rewarding loyal customers, optimizing discounts and shipping strategies, and investing in underperforming regions, the business can 
-    maximize revenue and customer satisfaction.
+  - The dashboards provide a comprehensive overview of the business's strong performance, highlighting its ability to meet sales and budget targets. However,
+ there are opportunities for improvement in product category diversification, geographic reach, and customer growth.
+
+- Key Strengths:
+
+Achieving 22M in sales, surpassing the 21M budget.
+A solid customer base of 18K customers with strong contributions from top-performing customers.
+Geographic sales clusters in high-demand regions like North America, Europe, and Asia.
+Exceptional performance in the Clothing category, contributing over 95% of total sales.
+
+- Key Challenges:
+
+Over-reliance on a single product category (Clothing) poses a risk.
+Limited sales contributions from underperforming regions (South America and Africa) and categories (Bikes and Accessories).
+Room to grow the customer base beyond the existing 18K.
+Future Outlook:
+By focusing on diversification, customer acquisition, and regional expansion, the business can sustain growth and build resilience. Leveraging seasonal peaks and customer loyalty programs can further enhance profitability.
 
   ## Sales Improvement Recommendations:
-  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Improvment%20Recommendations%20.docx">View Sales Improvement Recommendations</a>
+1- Focus on Product Mix:
+Introduce promotions or bundle offers for underperforming categories like Bikes and Accessories to increase their contribution.
+
+2- Customer Retention Programs:
+Offer loyalty rewards or personalized offers to top customers like Jordan Turner to ensure continued engagement.
+
+3- Geographic Targeting:
+Invest in marketing campaigns in less saturated regions to expand the customer base globally.
+
+4- Seasonal Promotions:
+Leverage peak months like May, August, and October to maximize sales through discounts or limited-time offers.
