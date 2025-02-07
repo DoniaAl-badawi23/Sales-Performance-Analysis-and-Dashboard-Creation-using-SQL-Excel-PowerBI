@@ -65,18 +65,16 @@ Sales Manager Request:
 
 
 ## Dashboard Interaction:
-  <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/SalesDashboard.xlsx">View Dashboard</a>
+  <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Dashboard</a>
 
 ## Process:
   - 1- Collecting a Data from Different Sources.
-  - 2- Cleaning and Preprocessing Data in Power Query Editor.
-  - 3- Data Modeling For Data in Power Pivot.
-  - 4- Calculation Data by Using Measures and Calculated Columns.
-  - 5- Calculation Data by Using Pivot Tables.
-  - 6- Wireframe Creation to Design Dashboard.
-  - 7- Creation a Dashboard.
-  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9.docx">View Project Process</a>
-
+  - 2- Cleaning and Preprocessing Data in SQL & Power Query Editor in PowerBI.
+  - 3- Data Modeling For Data in Model View in PowerBI.
+  - 4- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
+  - 5- Wireframe Creation to Design Dashboard.
+  - 6- Creation a Dashboards in PowerBI.
+  
   ## Dashboard
  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
 
