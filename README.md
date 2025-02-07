@@ -1,7 +1,7 @@
 # Sales-Performance-Dashboard
 I developed a comprehensive project in SQL and Excel and PowerBI, creating visual dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.  
 
-# Sales-Performance-project(Interactive Dashboards Creation using Excel & PowerBI)
+# Sales-Performance-project (Interactive Dashboards Creation using Excel & PowerBI)
 
 ## Project Objective:
 Sales Manager Request:
@@ -76,7 +76,7 @@ Sales Manager Request:
   - 6- Creation a Dashboards in PowerBI.
   
   ## Dashboard
- - <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Sales Performance Dashboard"</a>
+ - <a href="">View Sales Performance Dashboard</a>
 
  
   ## Final Conclusion:
@@ -101,20 +101,21 @@ Sales Manager Request:
     By focusing on diversification, customer acquisition, and regional expansion, the business can sustain growth and build resilience. Leveraging seasonal peaks and customer loyalty        programs can further enhance profitability.
 
   ## Sales Improvement Recommendations:
-1- Focus on Product Mix:
+ 1- Focus on Product Mix:
 
-    Introduce promotions or bundle offers for underperforming categories like Bikes and Accessories to increase their contribution.
+   Introduce promotions or bundle offers for underperforming categories like Bikes and Accessories to increase their contribution.
 
-2- Customer Retention Programs:
+ 2- Customer Retention Programs:
 
-    Offer loyalty rewards or personalized offers to top customers like Jordan Turner to ensure continued engagement.
+   Offer loyalty rewards or personalized offers to top customers like Jordan Turner to ensure continued engagement.
 
-3- Geographic Targeting:
+ 3- Geographic Targeting:
 
-    Invest in marketing campaigns in less saturated regions to expand the customer base globally.
+   Invest in marketing campaigns in less saturated regions to expand the customer base globally.
 
-4- Seasonal Promotions:
+ 4- Seasonal Promotions:
 
-    Leverage peak months like May, August, and October to maximize sales through discounts or limited-time offers.
+   Leverage peak months like May, August, and October to maximize sales through discounts or limited-time offers.
 
 ## Presentation:
+- <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/Sales%20Performanc%20Project.pptx">View Presentation</a>
