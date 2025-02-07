@@ -5,11 +5,11 @@ I developed a comprehensive project in SQL and Excel and PowerBI, creating visua
 
 ## Project Objective:
 Sales Manager Request:
-We need to improve our online sales reporting and want to move from static reports to visual dashboards.
-Basically, we want to focus on how much product we sold, to which customers and how it fared over time.
-Since each sales rep works on different products and customers, it would be helpful to be able to filter them as well.
-We measure our numbers against budget, so I put that into a spreadsheet so we can compare our values ​​to performance.
-Budget for 2021 We usually look back two years when we do sales analysis..
+- We need to improve our online sales reporting and want to move from static reports to visual dashboards.
+  Basically, we want to focus on how much product we sold, to which customers and how it fared over time.
+  Since each sales rep works on different products and customers, it would be helpful to be able to filter them as well.
+  We measure our numbers against budget, so I put that into a spreadsheet so we can compare our values ​​to performance.
+  Budget for 2021 We usually look back two years when we do sales analysis..
 
 ## Dataset Used:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard">Dataset</a>
