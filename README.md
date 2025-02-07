@@ -17,7 +17,7 @@ Sales Manager Request:
 ## Business Requirements (KPIs):
 
 ### Sales Overview Dashboard
- 1- Overall Mertics:
+ 1- Overall Metrics:
  - Total Sales
  - Total Budget
  - Total Customers
@@ -34,7 +34,7 @@ Sales Manager Request:
  6- Sales by Customer City
    
 ### Customer Details Dashboard
- 1- Overall Mertics:
+ 1- Overall Metrics:
  - Total Customers
  - Total Sales
  - Total Budget
@@ -49,7 +49,7 @@ Sales Manager Request:
  5- Details Table about Customers
    
 ### Product Details Dashboard:
- 1- Overall Mertics:
+ 1- Overall Metrics:
  - Total Products
  - Total Sales
  - Total Budget
