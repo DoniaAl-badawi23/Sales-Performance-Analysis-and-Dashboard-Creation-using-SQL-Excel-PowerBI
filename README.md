@@ -105,7 +105,7 @@ Sales Manager Request:
 
    Introduce promotions or bundle offers for underperforming categories like Bikes and Accessories to increase their contribution.
 
- 2- Customer Retention Programs:
+ 2- Customer Retention Programs: 
 
    Offer loyalty rewards or personalized offers to top customers like Jordan Turner to ensure continued engagement.
 
