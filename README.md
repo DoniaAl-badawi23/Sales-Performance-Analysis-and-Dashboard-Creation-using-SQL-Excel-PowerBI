@@ -1,5 +1,5 @@
 # Sales-Performance-Dashboard
-I developed a comprehensive project in SQL and Excel and PowerBI, creating visual dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.  
+I developed a comprehensive project in SQL and Excel and PowerBI, creating visual dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.   
 
 # Sales-Performance-project (Interactive Dashboards Creation using Excel & PowerBI)
 
