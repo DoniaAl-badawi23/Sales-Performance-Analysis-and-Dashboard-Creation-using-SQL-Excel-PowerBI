@@ -1,15 +1,18 @@
-# Sales-Performance-Dashboard
-I developed a comprehensive project in SQL and Excel and PowerBI, creating visual dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.   
+# Sales Performance Analysis and Dashboard Creation using SQL, Excel & Power BI  
 
-# Sales-Performance-project (Interactive Dashboards Creation using Excel & PowerBI)
+## Project Summary:
 
-## Project Objective:
-Sales Manager Request:
-- We need to improve our online sales reporting and want to move from static reports to visual dashboards.
-  Basically, we want to focus on how much product we sold, to which customers and how it fared over time.
-  Since each sales rep works on different products and customers, it would be helpful to be able to filter them as well.
-  We measure our numbers against budget, so I put that into a spreadsheet so we can compare our values ​​to performance.
-  Budget for 2021 We usually look back two years when we do sales analysis..
+This project focuses on enhancing online sales reporting by transitioning from static reports to interactive dashboards. The goal was to provide a comprehensive analysis of sales performance, product sales trends, customer insights, and budget comparisons.
+
+# The project involved several key stages:
+
+- Data Preprocessing & Cleaning: Extracted, transformed, and cleaned sales data using SQL and Excel to ensure accuracy and consistency.
+
+- Data Analysis & Visualization: Developed dynamic dashboards in Power BI to track total sales, customer performance, product trends, and budget variance.
+
+- Interactive Filtering & Insights: Enabled users to filter data by sales rep, product, customer, and timeframe for customized reporting.
+
+- Comparative Performance Analysis: Integrated budget data to analyze actual sales against planned targets, providing key business insights.
 
 ## Dataset Used:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard">Dataset</a>
@@ -118,4 +121,4 @@ Sales Manager Request:
    Leverage peak months like May, August, and October to maximize sales through discounts or limited-time offers.
 
 ## Presentation:
-- <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/Sales%20Performanc%20Project.pptx">View Presentation</a>
+- <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/Sales%20Performanc%20Project.pptx"> View Presentation </a>
