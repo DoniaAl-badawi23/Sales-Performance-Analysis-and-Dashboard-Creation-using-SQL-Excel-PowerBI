@@ -4,7 +4,7 @@
 
 This project focuses on enhancing online sales reporting by transitioning from static reports to interactive dashboards. The goal was to provide a comprehensive analysis of sales performance, product sales trends, customer insights, and budget comparisons.
 
-# The project involved several key stages:
+## The project involved several key stages:
 
 - Data Preprocessing & Cleaning: Extracted, transformed, and cleaned sales data using SQL and Excel to ensure accuracy and consistency.
 
